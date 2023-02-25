@@ -45,7 +45,6 @@ class CharInfo extends React.Component {
       char,
       loading: false,
     });
-    console.log(this.state.char);
   };
 
   onCharLoading = () => {
